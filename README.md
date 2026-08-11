@@ -22,8 +22,6 @@ torchvision==0.3.0
 
 
 ## Datasets
-[Real Underwater Polarization Data](https://github.com/polwork/U-2Pnet/tree/main/Real_Raw_Underwater_images) are released.
-
 We use a polarization camera with micro polarization filters array (LUCID, PHX050S), whose spatial resolution is 2448 × 2048.
 The acquired mosaicked polarization image can be demosaicked using [PCDC](https://github.com/polwork/PCDP) or [Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model](https://github.com/polwork/Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model).
 
@@ -35,7 +33,7 @@ The acquired mosaicked polarization image can be demosaicked using [PCDC](https:
 
 ### Underwater Enhancement
 
-<div align=center><img src=".../main/Images_Output/image20Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="165" height="145"><div>
+<div align=center><img src=".../Images_Output/image20Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="165" height="145"><div>
 
 <div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image140Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r140.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_5L_frame4.bmp" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/5L_frame4Imax.jpg" width="165" height="145"><div>
 
