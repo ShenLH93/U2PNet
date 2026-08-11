@@ -33,29 +33,14 @@ The acquired mosaicked polarization image can be demosaicked using [PCDC](https:
 
 ### Underwater Enhancement
 
-<div align=center><img src="./Images_Output/image20Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="165" height="145"><div>
-
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image140Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r140.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_5L_frame4.bmp" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/5L_frame4Imax.jpg" width="165" height="145"><div>
-
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_10L_frame17.bmp" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/10L_frame17Imax.jpg" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_15L_frame9.bmp"width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/15L_frame9Imax.jpg" width="165" height="145"><div>
-
-<div align=left><div>
+<div align=center><img src="./Images_Output/image20Imax.jpg" width="165" height="145" ><img src="./Images_Output/r20.bmp" width="165" height="145"> <img src="./Images_Output/image60Imax.jpg" width="165" height="145" ><img src="./Images_Output/r60.bmp" width="165" height="145"><div><div align=center><img src="./Images_Output/image140Imax.jpg" width="165" height="145" ><img src="./Images_Output/r140.bmp" width="165" height="145"> <img src="./Images_Output/S0_5L_frame4.bmp" width="165" height="145" ><img src="./Images_Output/5L_frame4Imax.jpg" width="165" height="145"><div><div align=center><img src="./Images_Output/S0_10L_frame17.bmp" width="165" height="145" ><img src="./Images_Output/10L_frame17Imax.jpg" width="165" height="145"> <img src="./Images_Output/S0_15L_frame9.bmp"width="165" height="145" ><img src="./Images_Output/15L_frame9Imax.jpg" width="165" height="145"><div><div align=left><div>
 
 ### Dehazing
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori1.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P1.jpg" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori2.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P2.jpg" width="165" height="145"><div>
+<div align=center><img src="./Images_Output/Haze_Ori1.jpg" width="165" height="145" ><img src="./Images_Output/Dehaze_U2P1.jpg" width="165" height="145"> <img src="./Images_Output/Haze_Ori2.jpg" width="165" height="145" ><img src="./Images_Output/Dehaze_U2P2.jpg" width="165" height="145"><div><div align=center><img src="./Images_Output/Haze_Ori3.jpg" width="165" height="145" ><img src="./Images_Output/Dehaze_U2P3.jpg" width="165" height="145"> <img src="./Images_Output/Haze_Ori4.jpg" width="165" height="145" ><img src="./Images_Output/Dehaze_U2P4.jpg" width="165" height="145"><div><div align=left><div>
 
-
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori3.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P3.jpg" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori4.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P4.jpg" width="165" height="145"><div>
-
-<div align=left><div>
-  
 ## Videos
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.gif" width="165" height="145"><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-U2P.gif" width="165" height="145">  <img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo2-Ori.gif" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo2-U2P.gif" width="165" height="145"><div>
-
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo3-Ori.gif" width="165" height="145"><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo3-U2P.gif" width="165" height="145">  <img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo4-Ori.gif" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo4-U2P.gif" width="165" height="145"><div>
-
-<div align=left><div>
+<div align=center><img src="./Video/Viedeo1-Ori.gif" width="165" height="145"><img src="./Video/Viedeo1-U2P.gif" width="165" height="145"> <img src="./Video/Viedeo2-Ori.gif" width="165" height="145" ><img src="./Video/Viedeo2-U2P.gif" width="165" height="145"><div><div align=center><img src="./Video/Viedeo3-Ori.gif" width="165" height="145"><img src="./Video/Viedeo3-U2P.gif" width="165" height="145"> <img src="./Video/Viedeo4-Ori.gif" width="165" height="145" ><img src="./Video/Viedeo4-U2P.gif" width="165" height="145"><div><div align=left><div>
 
   
